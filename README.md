@@ -1,6 +1,6 @@
 # justapp
 
-#### 1. Project setup and build
+#### 1. Project setup
 
 * `npm install`
 
